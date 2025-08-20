@@ -1,4 +1,4 @@
-# FIRESTARTER-PIPE-NODE-STORAGE-
+# Firestarter Storage Pipe node
 
 ## Introduction OF Node
 
