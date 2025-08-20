@@ -43,7 +43,7 @@ A Pipe Firestarter Storage Node is a decentralized engine for storing and delive
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/notcarsondc/Pipe-Firestarter-Storage-Guide && cd Pipe-Firestarter-Storage-Guide
+git clone https://github.com/notcarsondc/FIRESTARTER-PIPE-NODE-STORAGE- && cd FIRESTARTER-PIPE-NODE-STORAGE-
 
 ```
 
